@@ -131,7 +131,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- Email: hasintha.meegahawala@gmail.com
+- Email: hasintha.im@gmail.com
 - LinkedIn: [Hasintha Meegahawala](https://www.linkedin.com/in/hasintha-meegahawela-7a206b348/)
 - GitHub: [Hasintha00](https://github.com/Hasintha00)
 
