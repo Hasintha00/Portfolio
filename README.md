@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hasintha Meegahawala - Portfolio Website
 
 A modern, responsive portfolio website showcasing my journey as a Software Engineering student at SLIIT. Built with React, Vite, and Tailwind CSS featuring smooth animations and professional design.
@@ -23,7 +22,7 @@ I'm Hasintha Meegahawala, a passionate Software Engineering undergraduate at Sri
 - **Styling**: Tailwind CSS
 - **Animations**: Framer Motion
 - **Icons**: Lucide React
-- **Deployment**: Ready for Vercel, Netlify, or any static hosting
+- **Deployment**: GitHub Pages
 
 ## 📱 Sections
 
@@ -44,8 +43,8 @@ I'm Hasintha Meegahawala, a passionate Software Engineering undergraduate at Sri
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd git-portfolio
+git clone https://github.com/Hasintha00/Portfolio.git
+cd Portfolio
 ```
 
 2. Install dependencies:
@@ -60,34 +59,7 @@ npm run dev
 
 4. Open your browser and visit `http://localhost:5173`
 
-## 📝 Customization
-
-### Personal Information
-
-1. Update your personal information in the components:
-   - `src/components/Hero.jsx` - Name, title, and description
-   - `src/components/About.jsx` - About section content
-   - `src/components/Contact.jsx` - Contact information
-
-### Projects
-
-1. Edit the projects array in `src/components/Projects.jsx`
-2. Add your project images to `src/assets/` or use external URLs
-3. Update project descriptions, technologies, and links
-
-### Styling
-
-1. Customize colors in `tailwind.config.js`
-2. Modify animations and transitions as needed
-3. Update the gradient backgrounds and color scheme
-
-### Social Links
-
-Update social media links in:
-- `src/components/Hero.jsx`
-- `src/components/Contact.jsx`
-
-## 📦 Build for Production
+## � Build for Production
 
 ```bash
 npm run build
@@ -95,39 +67,13 @@ npm run build
 
 The built files will be in the `dist` directory, ready for deployment.
 
+## 🌐 Live Demo
+
+Visit the live portfolio: [https://hasintha00.github.io/Portfolio/](https://hasintha00.github.io/Portfolio/)
+
 ## 🚀 Deployment
 
-This portfolio is ready to deploy on various platforms:
-
-### Vercel
-```bash
-npm run build
-vercel --prod
-```
-
-### Netlify
-```bash
-npm run build
-# Upload the dist folder to Netlify
-```
-
-### GitHub Pages
-```bash
-npm run build
-# Configure GitHub Pages to serve from the dist folder
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Open a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This portfolio is automatically deployed to GitHub Pages using GitHub Actions. Every push to the main branch triggers a new deployment.
 
 ## 📞 Contact
 
