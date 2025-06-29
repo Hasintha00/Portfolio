@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hasintha Meegahawala - Portfolio Website
 
 A modern, responsive portfolio website showcasing my journey as a Software Engineering student at SLIIT. Built with React, Vite, and Tailwind CSS featuring smooth animations and professional design.
