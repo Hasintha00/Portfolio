@@ -28,14 +28,14 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email',
-      value: 'hasintha.meegahawala@gmail.com',
-      href: 'mailto:hasintha.meegahawala@gmail.com'
+      value: 'hasintha.im@gmail.com',
+      href: 'mailto:hasintha.im@gmail.com'
     },
     {
       icon: Phone,
       title: 'Phone',
-      value: '+94 (77) 123-4567',
-      href: 'tel:+94771234567'
+      value: '+94 (76) 900 6279',
+      href: 'tel:+94769006279'
     },
     {
       icon: MapPin,
