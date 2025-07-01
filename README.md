@@ -83,4 +83,4 @@ This portfolio is automatically deployed to GitHub Pages using GitHub Actions. E
 
 ---
 
-Made with ❤️ by Hasintha Meegahawala using React and Vite
+Made by Hasintha Meegahawala using React and Vite
